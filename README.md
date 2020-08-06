@@ -34,14 +34,14 @@ This variable is used for saving the mean value of Normal distribution and the d
 This variable is used for saving the Deviation value of Normal distribution and the default value is 2
 * **pdf** : 
 Same as Student class based on below formula
-<img src="Pics/F1.jpg" width="400" class="center" />
+<img src="Pics/F1.png" width="400" class="center" />
 
 # ExponentialStudent class
 * **lambda**: 
 This variable is used for saving the Exponential distribution parameter and the default value is 0.07
 * **pdf** : 
 Same as Student class based on below formula
-<img src="Pics/F2.jpg" width="400" class="center" />
+<img src="Pics/F2.png" width="400" class="center" />
 
 # Other Functions
 * **getData**:
