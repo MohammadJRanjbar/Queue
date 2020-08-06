@@ -43,7 +43,7 @@ Same as Student class based on below formula
 * **Other Functions** 
 * **getData**:
 This function gets a csv file and every row is a student , it will return the students as the below vector
-'''C++
+```c++
 std::unique_ptr<Student> 
-'''
+```
 
