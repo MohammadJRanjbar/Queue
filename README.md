@@ -1,6 +1,7 @@
 # Queue
-this was a midterm exam for my ap course 
-the main point was to design a queue so we can categorize students 
+This was a midterm exam for my ap course 
+The main point was to design a queue based on fifo rule so we can categorize students 
+<img src="Pics/F3.png" width="800" class="center" />
 # Queue Class
 Queue class has these members
 * **pnext** :
