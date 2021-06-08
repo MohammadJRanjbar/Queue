@@ -1,5 +1,5 @@
 # Queue
-This was a midterm exam for my ap course 
+This was a midterm exam for dr.jahanshahi's Advanced Programming course designed by mr Amini (https://github.com/M-H-Amini).
 The main point was to design a queue based on fifo rule so we can categorize students 
 <img src="Pics/F3.png" width="800" class="center" />
 # Queue Class
